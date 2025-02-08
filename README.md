@@ -7,10 +7,11 @@
 * 02 Ridge回帰・LASSO回帰・ElasticNet
 * 03 主成分回帰
 * 04 部分最小二乗法
-* 05 ロジスティック回帰・Ridge・LASSO
-* 06 Support Vector Machine
-* 07 Random Forest
-* 08 kNNと混合ガウス
-* 09 主成分分析
-* 10 ニューラルネットワークによる回帰
-* 11 ニューラルネットワークによる識別
+* 05 ロジスティック回帰
+* 06 Ridge回帰・LASSO回帰・ElasticNet
+* 07 Support Vector Machine
+* 08 Random Forest
+* 09 kNNと混合ガウス
+* 10 主成分分析
+* 11 ニューラルネットワークによる回帰
+* 12 ニューラルネットワークによる識別
