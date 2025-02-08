@@ -10,7 +10,7 @@
 * 05 ロジスティック回帰
 * 06 Ridge回帰・LASSO回帰・ElasticNet
 * 07 Support Vector Machine
-* 08 Random Forest
+* 08 Random ForestとGradient Boosting
 * 09 kNNと混合ガウス
 * 10 主成分分析
 * 11 ニューラルネットワークによる回帰
