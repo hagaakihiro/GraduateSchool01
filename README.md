@@ -1,5 +1,7 @@
 # 大学院講義：先端医用画像情報学・先端数理統計学
 
+[参考書のダウンロード先](https://hastie.su.domains/ElemStatLearn/)
+
 * 00 pythonとVS codeの設定
 * 01 最小二乗法
 * 02 Ridge回帰・LASSO回帰・ElasticNet
