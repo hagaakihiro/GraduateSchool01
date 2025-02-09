@@ -5,7 +5,7 @@
 を他の変数を使って分類することです。
 
 * (1)(2)についてSVMの精度を調べる
-* Ridge・LASSO・ElasticNet・SVMと比べる
+* Ridge・LASSO・ElasticNetと比べる
 * Random Forestにおいて得られた変数重要度を示す（Figure 15.5のようなもの）
 
 できた後、ディスカッションします。
