@@ -5,6 +5,6 @@
 を他の変数を使って分類することです。
 
 * (1)(2)についてSVMの精度を調べる
-* Ridge・LASSO・ElasticNetと比べる
+* Ridge・LASSO・ElasticNet・Random Forestと比べる
 
 できた後、ディスカッションします。
