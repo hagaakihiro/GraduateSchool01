@@ -1,4 +1,4 @@
-# Rupport Vector Machine
+# Support Vector Machine
 本日のお題は、**Support Vector Machine (SVM)を使って**<br>
 (1) SAheart.dataの中のchd<br>
 (2) iris_class_add.csvの中のclass<br>
